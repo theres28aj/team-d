@@ -1,2 +1,2 @@
 # team-d
-This contains vehicle insurance case study details and codes.
+This contains Vehicle Insurance case study details and codes.
